@@ -25,14 +25,11 @@ This project is an exploration of Internet of Things (IoT) technology using Java
    cd Internet-of-Things
    ```
 Install dependencies (if any):
-
-Bash Code
-```bash
-npm install
-```
+   ```bash
+   npm install
+   ```
 
 ## Usage
-
 Run the IoT script:
 ```bash
 node FinalSubmission.js
