@@ -24,7 +24,7 @@ This project is an exploration of Internet of Things (IoT) technology using Java
    git clone https://github.com/HuzaifahHamizan/Internet-of-Things.git
    cd Internet-of-Things
    ```
-Install dependencies (if any):
+2. Install dependencies (if any):
    ```bash
    npm install
    ```
